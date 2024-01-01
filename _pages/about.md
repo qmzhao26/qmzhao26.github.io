@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year master's student in Information Science at the University of Pittsburgh. Prior to PITT, I obtained my Bachelor of Engineering degree in Software Engineering from Chongqing University, China.
 
-My research interest includes Natural Language Processing and Computer Vision. I have published some papers in CV and Graph Mining. <a href='https://scholar.google.com/citations?user=PL5kiu4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes Natural Language Processing and Computer Vision. I have published papers in CV and Graph Mining. <a href='https://scholar.google.com/citations?user=PL5kiu4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- # 🔥 News
 
