@@ -45,7 +45,7 @@ My research interest includes Explainable AI (XAI), Computer Vision, Multi-modal
 
 - [CubeFlow: Money Laundering Detection with Coupled Tensors (co-first author)](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_7) **PAKDD 2021**
 
-- [An Iteratively Optimized Patch Label Inference Network for Automatic Pavement Disease Detection](https://ieeexplore.ieee.org/abstract/document/9447759) **IEEE ITS 2021**
+- [An Iteratively Optimized Patch Label Inference Network for Automatic Pavement Disease Detection](https://ieeexplore.ieee.org/abstract/document/9447759) **IEEE T-ITS 2021**
 
 <!-- # 🎖 Honors and Awards
 
