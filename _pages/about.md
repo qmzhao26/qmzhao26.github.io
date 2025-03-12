@@ -52,7 +52,7 @@ My research interest includes Explainable AI (XAI), Computer Vision, Multi-modal
 
 # Educations
 
-- _2022.06 - 2024.05, Master in Information Science, School of Computing & Information, University of Pittsburgh.
+- _2022.06 - 2024.05_, Master in Information Science, School of Computing & Information, University of Pittsburgh.
 - _2017.09 - 2021.06_, Bachelor of Engineering in Software Engineering, School of Big Data & Software Engineering, Chongqing Univeristy, China.
 
 <!-- # 💬 Invited Talks
