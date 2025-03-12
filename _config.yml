@@ -23,9 +23,9 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Qiming Zhao"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Carnegie Mellon University"
+  bio: "Research Interest: Computer Vision, XAI, Multi-model, LLM"
   location: "Pittsburgh, PA"
-  employer:
+  employer: "Carnegie Mellon University"
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=PL5kiu4AAAAJ"
   email: "qiz113@pitt.edu"
